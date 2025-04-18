@@ -25,8 +25,8 @@ export default function Projects() {
       title: "Portfolio Website",
       description: "A responsive portfolio website showcasing projects and skills with a modern, clean design.",
       image: "/card-portfolio.png?height=300&width=600",
-      technologies: ["Next.js", "Tailwind CSS", "Framer Motion", "Vercel"],
-      demoUrl: "#",
+      technologies: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "ESLint"],
+      demoUrl: "https://portfolio-hoangtra.vercel.app/",
       githubUrl: "https://github.com/DevTra-fullstack/portfolio-hoangtra",
     },
     /*{
