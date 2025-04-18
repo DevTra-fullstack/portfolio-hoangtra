@@ -3,7 +3,7 @@ import ProjectCard from "@/components/project-card"
 export default function Projects() {
   // Sample projects (placeholders)
   const projects = [
-    {
+    /*{
       title: "E-Commerce Platform",
       description:
         "A full-stack e-commerce solution with product management, cart functionality, and secure checkout process.",
@@ -20,16 +20,16 @@ export default function Projects() {
       technologies: ["Vue.js", "Tailwind CSS", "Express", "Socket.io", "MongoDB"],
       demoUrl: "#",
       githubUrl: "#",
-    },
+    },*/
     {
       title: "Portfolio Website",
       description: "A responsive portfolio website showcasing projects and skills with a modern, clean design.",
       image: "/placeholder.svg?height=300&width=600",
       technologies: ["Next.js", "Tailwind CSS", "Framer Motion", "Vercel"],
       demoUrl: "#",
-      githubUrl: "#",
+      githubUrl: "https://github.com/DevTra-fullstack/portfolio-hoangtra",
     },
-    {
+    /*{
       title: "Weather Dashboard",
       description:
         "A weather application that provides real-time forecasts, historical data, and location-based weather information.",
@@ -55,7 +55,7 @@ export default function Projects() {
       technologies: ["Vue.js", "Vuex", "Food API", "Tailwind CSS"],
       demoUrl: "#",
       githubUrl: "#",
-    },
+    },*/
   ]
 
   return (
